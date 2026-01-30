@@ -34,16 +34,3 @@ spec:
             secretKeyRef:
               name: auth-secrets
               key: jwt-secret
----
-apiVersion: v1
-kind: Service
-metadata:
-  name: auth-service
-spec:
-  type: LoadBalancer
-  selector:
-    app: auth-backend
-  ports:
-    - protocol: TCP
-      port: 5000
-      targetPort: 5000
