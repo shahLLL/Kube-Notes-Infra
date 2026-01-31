@@ -1,6 +1,6 @@
 # Kube-Notes-Infra
 <div align="center">
-  <img src="images/background-photo.png" alt="K8 Logo" width="75%"/>
+  <img src="images/Kubernetes-Logo.wine.svg" alt="K8 Logo" width="75%"/>
   <br><br>
 </div>
 
