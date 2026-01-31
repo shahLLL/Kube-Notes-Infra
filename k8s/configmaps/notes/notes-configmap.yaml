@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: notes-config
+  labels:
+    app: notes-api
+data:
+  INGRESS: "http://localhost:8081"
+  NOTES_APP_PORT: "5001"
+  PORT: "5001"
+  MONGO_URI: "mongodb://mongodb-service:27017/notes_db"
+  REDIS_URL: "redis://redis-service:6379"
