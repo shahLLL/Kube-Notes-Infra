@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: shahlll/kube-notes-frontend:latest
+        image: shahlll/kube-notes-frontend:v1.0.0
         imagePullPolicy: Always
         securityContext:
           runAsUser: 0
