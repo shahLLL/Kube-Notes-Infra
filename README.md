@@ -27,6 +27,8 @@ Contributions and feedback are more than welcomed.
 
 When contributing to this project or using it in any way, please do pay attention to: [LICENSE](https://github.com/shahLLL/Kube-Notes-Infra/tree/main?tab=Apache-2.0-1-ov-file)
 
+For a deeper dive on this project, please feel free to read [this](https://medium.com/@samiur1998/orchestrating-a-distributed-web-application-using-kubernetes-85868b579cf9) article.
+
 ☕☕☕**CHEERS AND THANK YOU**☕☕☕
 
 
